@@ -18,9 +18,11 @@ Usage
 .. code:: bash
 
    pipenv install --dev
+   pipenv shell
 
-   pipenv run nosetests berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/herrenfahrraeder/" -o male-bikes.json
-   pipenv run nosetests berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/damenfahrraeder/" -o female-bikes.json
-   pipenv run nosetests berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/kinderfahrraeder/" -o children-bikes.json
-   pipenv run nosetests berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/sonstige-fahrraeder/" -o misc-bikes.json
-   pipenv run nosetests berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/fahrradteile/" -o mutilated-bikes.json
+   # then ...
+   berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/herrenfahrraeder/" -o male-bikes.json
+   berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/damenfahrraeder/" -o female-bikes.json
+   berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/kinderfahrraeder/" -o children-bikes.json
+   berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/sonstige-fahrraeder/" -o misc-bikes.json
+   berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/fahrradteile/" -o mutilated-bikes.json
