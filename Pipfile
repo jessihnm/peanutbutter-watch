@@ -19,6 +19,7 @@ rednose = "*"
 nose-watch = "*"
 ipdb = "*"
 berlin-bike-watch = {editable = true, path = "."}
+coverage = "*"
 
 [requires]
 python_version = "3.7"

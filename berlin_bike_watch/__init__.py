@@ -21,14 +21,14 @@ class HTMLResponse(object):
         sel = CSSSelector(css_selector)
         return sel(self.dom) or []
 
-    def first_occurrence_of(self, css_selector):
+    def first_occurrence_of(self, *selectors):
         """shortcut for calling ``.query()[0]`` automatically handling when it
         an empty result could cause IndexError
         """
-        for result in self.query(css_selector):
-            # return first result ;)
-            return result
-
+        for css_selector in selectors:
+            for result in self.query(css_selector):
+                # return first result ;)
+                return result
 
 class Scraper(object):
     def __init__(self, entrypoint_url):
@@ -60,8 +60,8 @@ class Scraper(object):
         return result
 
     def extract_url_for_next_page(self, response):
-        link = response.first_occurrence_of("ul li.next.pager-item a")
-        if link is not None:
+        link = response.first_occurrence_of("ul li.next.pager-item a", "ul li.pager-item-next a")
+        if link is None:
             return
 
         return link.attrib.get("href")

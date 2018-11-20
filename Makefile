@@ -1,6 +1,6 @@
-default: dependencies tests run
+default: Pipfile.lock tests run
 
-dependencies:
+Pipfile.lock:
 	pipenv install --dev
 
 tests:
@@ -9,12 +9,12 @@ tests:
 tdd:
 	pipenv run nosetests --with-watch tests/
 
-run:
-	pipenv run nosetests berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/herrenfahrraeder/" -o male-bikes-$$(date +"%Y%m%d-%H%M").json
-	pipenv run nosetests berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/damenfahrraeder/" -o female-bikes-$$(date +"%Y%m%d-%H%M").json
-	pipenv run nosetests berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/kinderfahrraeder/" -o children-bikes-$$(date +"%Y%m%d-%H%M").json
-	pipenv run nosetests berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/sonstige-fahrraeder/" -o misc-bikes-$$(date +"%Y%m%d-%H%M").json
-	pipenv run nosetests berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/fahrradteile/" -o mutilated-bikes-$$(date +"%Y%m%d-%H%M").json
+run: Pipfile.lock
+	pipenv run berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/herrenfahrraeder/" -o male-bikes-$$(date +"%Y%m%d-%H%M").json
+	pipenv run berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/damenfahrraeder/" -o female-bikes-$$(date +"%Y%m%d-%H%M").json
+	pipenv run berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/kinderfahrraeder/" -o children-bikes-$$(date +"%Y%m%d-%H%M").json
+	pipenv run berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/sonstige-fahrraeder/" -o misc-bikes-$$(date +"%Y%m%d-%H%M").json
+	pipenv run berlin-bike-watch "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/fahrradteile/" -o mutilated-bikes-$$(date +"%Y%m%d-%H%M").json
 
 distribution:
 	@python setup.py build sdist
