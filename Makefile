@@ -26,4 +26,4 @@ clean:
 # tells "make" that the target "make docs" is phony, meaning that make
 # should ignore the existence of a file or folder named "docs" and
 # simply execute commands described in the target
-.PHONY: docs
+.PHONY: docs tests tdd distribution clean default

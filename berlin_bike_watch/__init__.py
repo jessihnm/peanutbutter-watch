@@ -30,6 +30,7 @@ class HTMLResponse(object):
                 # return first result ;)
                 return result
 
+
 class Scraper(object):
     def __init__(self, entrypoint_url):
         self.entrypoint_url = entrypoint_url
@@ -60,7 +61,9 @@ class Scraper(object):
         return result
 
     def extract_url_for_next_page(self, response):
-        link = response.first_occurrence_of("ul li.next.pager-item a", "ul li.pager-item-next a")
+        link = response.first_occurrence_of(
+            "ul li.next.pager-item a", "ul li.pager-item-next a"
+        )
         if link is None:
             return
 
@@ -77,7 +80,7 @@ class Scraper(object):
 
         image = response.first_occurrence_of(".article .body .block .main-image a")
         if image is not None:
-            result["image"] = self.make_full_url(image.attrib.get("src"))
+            result["image"] = self.make_full_url(image.attrib.get("href"))
 
         keys = [
             "operation_number",
