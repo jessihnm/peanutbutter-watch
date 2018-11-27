@@ -1,0 +1,1426 @@
+[
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.759441.php",
+    "description": "Silber-graues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/759441.jpg",
+    "operation_number": "181028-0950-375859",
+    "manufacturer": "Adventure",
+    "model": "silber-grau",
+    "color": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.759438.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/759438.jpg",
+    "operation_number": "181028-0950-375859",
+    "manufacturer": "Frosch",
+    "model": "schwarz",
+    "color": "Direktion 3 Abschnitt 31"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758812.php",
+    "description": "Lilafarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758812.jpg",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "unbekannt",
+    "color": "lila",
+    "department": "Direktion 5 Abschnitt 55"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758810.php",
+    "description": "Bronzefarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758810.jpg",
+    "operation_number": "180707-1531-308869",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Gazelle",
+    "model": "bronzefarben",
+    "color": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758630.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758630.jpg",
+    "operation_number": "180824-2100-035278",
+    "kind_of_bike": "Damenfahrrad",
+    "model": "Blau",
+    "color": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758547.php",
+    "description": "Weinrotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758547.jpg",
+    "operation_number": "181109-0620-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "unbekannt",
+    "model": "Tourenrad",
+    "color": "weinrot",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758538.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758538.jpg",
+    "operation_number": "181109-0725-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "unbekannt",
+    "model": "blau",
+    "color": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758511.php",
+    "description": "Dunkelgraues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758511.jpg",
+    "operation_number": "181109-0730-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "unbekannt",
+    "model": "Tourenrad",
+    "color": "dunkelgrau",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758504.php",
+    "description": "Blau-graues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758504.jpg",
+    "operation_number": "181109-0620-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Tottek",
+    "model": "Tourenrad",
+    "color": "blau-grau",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758501.php",
+    "description": "Braunes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758501.jpg",
+    "operation_number": "181109-0620-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Kifa",
+    "model": "Tourenrad",
+    "color": "braun",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758496.php",
+    "description": "T\u00fcrkis-wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758496.jpg",
+    "operation_number": "181109-0610-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Tourenfahrrad",
+    "model": "t\u00fcrkis-wei\u00df",
+    "color": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758487.php",
+    "description": "Gr\u00fcnes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758487.jpg",
+    "operation_number": "181109-0610-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Tourenrad",
+    "model": "gr\u00fcn",
+    "color": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758472.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758472.jpg",
+    "operation_number": "181109-0610-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Tourenrad",
+    "model": "schwarz",
+    "color": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758466.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758466.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Kreidler",
+    "model": "Tourenrad",
+    "color": "schwarz",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758442.php",
+    "description": "Graues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758442.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "AluCityStar",
+    "model": "Tourenrad",
+    "color": "grau",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758434.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758434.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Outrider",
+    "model": "Tourenrad",
+    "color": "blau",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758424.php",
+    "description": "Schwarz-weinrotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758424.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "unbekannt",
+    "model": "Tourenrad",
+    "color": "schwarz/weinrot",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.757068.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/757068.jpg",
+    "operation_number": "180910-1746-038568",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Rex",
+    "model": "Schwarz",
+    "color": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.757057.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/757057.jpg",
+    "operation_number": "180910-1746-038568",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Fahrradstation",
+    "model": "Schwarz",
+    "color": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.756323.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/756323.jpg",
+    "operation_number": "181108-1351-021937",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Diamant",
+    "model": "Saphir 1.0",
+    "color": "Wei\u00df",
+    "department": "Direktion 1 Abschnitt 14"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.755648.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/755648.jpg",
+    "operation_number": "181105-0942-027433",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Hendricks",
+    "model": "CX 660",
+    "color": "Schwarz",
+    "department": "Direktion 1 K 2 EG Velo"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.755565.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/755565.jpg",
+    "operation_number": "181006-2100-288504",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Riverside",
+    "model": "schwarz (graphitfarben)",
+    "color": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.755563.php",
+    "description": "Graphitfarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/755563.jpg",
+    "operation_number": "181006-2100-288504",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Riverside",
+    "model": "Graphit",
+    "color": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.755106.php",
+    "description": "Graues Damenfahrrad",
+    "operation_number": "180905-1550-318369",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "Grau",
+    "color": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754859.php",
+    "description": "Blau-anthrazitfarbenes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/754859.jpg",
+    "operation_number": "180928-0830-031594",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Konsul",
+    "model": "blau-anthrazit",
+    "color": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754554.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/754554.jpg",
+    "operation_number": "181011-1515-036724",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Vortex",
+    "color": "wei\u00df",
+    "department": "Direktion 6 Abschnitt 66"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754079.php",
+    "description": "Schwarz-dunkelgraues Damenfahrrad",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "BT",
+    "model": "Schwarz-dunkelgrau",
+    "color": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754041.php",
+    "description": "Dunkelblaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/754041.jpg",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "BT",
+    "model": "dunkelblau",
+    "color": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754022.php",
+    "description": "Gr\u00fcnes Damenfahrrad",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Damenfahrrad",
+    "model": "Erfurt",
+    "color": "Gr\u00fcn",
+    "department": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753980.php",
+    "description": "Blau-schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753980.jpg",
+    "operation_number": "181003-0930-026523",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Prophete",
+    "model": "Entdecker 1.3.",
+    "color": "blau * schwarz",
+    "department": "Direktion 1 Abschnitt 11"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753958.php",
+    "description": "Silbernes Damenfahrrad",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Probike",
+    "model": "escape",
+    "color": "Silber",
+    "department": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753957.php",
+    "description": "Grau-rot-silbernes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753957.jpg",
+    "operation_number": "181003-0932-026523",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Tecnobike",
+    "model": "Capri",
+    "color": "grau * rot * silber",
+    "department": "Direktion 1 Abschnitt 11"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753948.php",
+    "description": "Schwarzes Damenfahrrad",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Bergamont",
+    "model": "AluWagonda",
+    "color": "Schwarz",
+    "department": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753940.php",
+    "description": "Gr\u00fcnes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753940.jpg",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Spectre",
+    "model": "gr\u00fcn",
+    "color": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753882.php",
+    "description": "Silbernes Damenfahrrad",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Silber",
+    "model": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753575.php",
+    "description": "Schwarz-wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753575.jpg",
+    "operation_number": "181018-2135-019988",
+    "kind_of_bike": "Damenmountainbike",
+    "manufacturer": "Mifa",
+    "model": "Master-D",
+    "color": "schwarz/wei\u00df",
+    "department": "Direktion 6 Abschnitt 65"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753396.php",
+    "description": "Silber-schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753396.jpg",
+    "operation_number": "161025-0703-038736",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Pegasus",
+    "model": "Premio SL",
+    "color": "silber-schwarz",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753383.php",
+    "description": "Silber-oranges Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753383.jpg",
+    "operation_number": "160819-1815-274058",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Performance",
+    "model": "Spezial Bike",
+    "color": "silber-orange",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753091.php",
+    "description": "Silber-rotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753091.jpg",
+    "operation_number": "181015-1121-030757",
+    "kind_of_bike": "Damen-Cityrad",
+    "manufacturer": "Raleigh",
+    "model": "silber/ rot",
+    "color": "Direktion 1 K2 EG Velo"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.752777.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/752777.jpg",
+    "operation_number": "181015-1121-030757",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Dynamics",
+    "model": "schwarz",
+    "color": "Direktion 1 K 2 EG Velo"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.752436.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/752436.jpg",
+    "operation_number": "181015-1121-030757",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 1 K 2"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.752414.php",
+    "description": "Lila-rotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/752414.jpg",
+    "operation_number": "181015-1121-030757",
+    "kind_of_bike": "Diamant",
+    "manufacturer": "Direktion 1 K 2"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.752322.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/752322.jpg",
+    "operation_number": "181015-1121-030757",
+    "kind_of_bike": "Diamant",
+    "manufacturer": "Direktion 1 K 2"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751684.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751684.jpg",
+    "operation_number": "181020-1530-025622",
+    "kind_of_bike": "Damenfahrrad mit Fahrradkorb vorne",
+    "manufacturer": "unbekannt",
+    "model": "wei\u00df",
+    "color": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751682.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751682.jpg",
+    "operation_number": "180424-1000-295572",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "WS 617",
+    "color": "schwarz",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751136.php",
+    "description": "Blau-schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751136.jpg",
+    "operation_number": "180731-1449-037711",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Hersteller unbekannt",
+    "color": "blau/schwarz mit gr\u00fcnen Felgen",
+    "department": "Direktion 5 Abschnitt 55"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.750888.php",
+    "description": "Schwarz-rotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/750888.jpg",
+    "operation_number": "181023-0838-037909",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "Flash Street",
+    "color": "schwarz/rot",
+    "department": "Direktion 3 K22"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.750597.php",
+    "description": "Silberfarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/750597.jpg",
+    "operation_number": "180922-2030-028577",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Mifa",
+    "model": "Torrek",
+    "color": "silber",
+    "department": "Direktion 6 Abschnitt 65"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.750589.php",
+    "description": "T\u00fcrkisfarbenes Damenfahrrad",
+    "operation_number": "180901-1200-030595",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Excelsior",
+    "model": "t\u00fcrkis",
+    "color": "Direktion 6 Abschnitt 65"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.750439.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/750439.jpg",
+    "operation_number": "180818-0356-302273",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "blau",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.749852.php",
+    "description": "Violettes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/749852.jpg",
+    "operation_number": "181003-1441-237347",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Globus",
+    "model": "violett / lila",
+    "color": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.749084.php",
+    "description": "Schwarzes Damenfahrrad",
+    "operation_number": "181013-0040-020073",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Vortex",
+    "model": "Travel 100",
+    "color": "Schwarz",
+    "department": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747755.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/747755.jpg",
+    "operation_number": "180918-0800-316783",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "schwarz",
+    "model": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747742.php",
+    "description": "Violettes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/747742.jpg",
+    "operation_number": "181003-1440-237347",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Sprick",
+    "model": "violett",
+    "color": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747204.php",
+    "description": "Blaues Damenfahrrad",
+    "operation_number": "181008-1930-039227",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "Blau",
+    "color": "Direktion 1 Abschnitt 13"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.746671.php",
+    "description": "Rotes Damenfahrrad",
+    "operation_number": "180826-2000-122212",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Canoga",
+    "model": "Rot",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.746664.php",
+    "description": "Silbernes Damenfahrrad",
+    "operation_number": "180904-1237-025893",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "MC Kenzie",
+    "model": "Silber",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.746303.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/746303.jpg",
+    "operation_number": "180930-0201-026247",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Tecnobike",
+    "model": "Urban",
+    "color": "Wei\u00df",
+    "department": "Direktion 1 K 2 EG Velo"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.744778.php",
+    "description": "Silber-graues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/744778.jpg",
+    "operation_number": "180811-1123-339856",
+    "kind_of_bike": "Kalkhoff",
+    "manufacturer": "Deore LX",
+    "model": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.744761.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/744761.jpg",
+    "operation_number": "180811-1121-339856",
+    "kind_of_bike": "Puch",
+    "manufacturer": "Elegance",
+    "model": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.743355.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/743355.jpg",
+    "operation_number": "180914-0140-250737",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "Blau mit silbernen Streifen",
+    "color": "Direktion 5 Abschnitt 55"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.743292.php",
+    "description": "Lilafarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/743292.jpg",
+    "operation_number": "180626-2317-215709",
+    "kind_of_bike": "Gudereit",
+    "manufacturer": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.743221.php",
+    "description": "Graues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/743221.jpg",
+    "operation_number": "180716-0906-019333",
+    "kind_of_bike": "Pegasus",
+    "manufacturer": "Bici Italia",
+    "model": "Direktion 1 Abschnitt 13"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.743009.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/743009.jpg",
+    "operation_number": "180917-1900-302230",
+    "kind_of_bike": "Triumph",
+    "manufacturer": "Kultrad",
+    "model": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.742956.php",
+    "description": "T\u00fcrkisfarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/742956.jpg",
+    "operation_number": "180917-1900-302230",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Pegasus",
+    "model": "Classico Solero",
+    "color": "t\u00fcrkis",
+    "department": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.742925.php",
+    "description": "Hellblaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/742925.jpg",
+    "operation_number": "180917-1900-302230",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "City Tour 3",
+    "color": "hellblau",
+    "department": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.742692.php",
+    "description": "Hellgraues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/742692.jpg",
+    "operation_number": "180917-1900-302230",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Triumph",
+    "color": "hellgrau",
+    "department": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741785.php",
+    "description": "Gr\u00fcnes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741785.jpg",
+    "operation_number": "180914-0434-030329",
+    "kind_of_bike": "Diamant",
+    "manufacturer": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741758.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741758.jpg",
+    "operation_number": "180705-1800-268087",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "schwarz",
+    "color": "Direktion 4 Abschnitt 46"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741697.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741697.jpg",
+    "operation_number": "180828-1259-027441",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Stevens",
+    "model": "schwarz",
+    "color": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741692.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741692.jpg",
+    "operation_number": "180828-1237-027441",
+    "kind_of_bike": "Diamant",
+    "manufacturer": "blau",
+    "model": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741681.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741681.jpg",
+    "operation_number": "180828-1224-027441",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Btwin",
+    "model": "schwarz",
+    "color": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741672.php",
+    "description": "Gr\u00fcnes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741672.jpg",
+    "operation_number": "180828-1210-027441",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "gr\u00fcn",
+    "color": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741650.php",
+    "description": "Bronzefarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741650.jpg",
+    "operation_number": "180828-1107-027441",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "bronze",
+    "color": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741343.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741343.jpg",
+    "operation_number": "180829-1222-027441",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Marandlo Light",
+    "model": "schwarz",
+    "color": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741325.php",
+    "description": "Blau-silbernes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741325.jpg",
+    "operation_number": "180829-1252-027441",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Kreidler",
+    "model": "blau / silber",
+    "color": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.738563.php",
+    "description": "Gr\u00fcnes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/738563.jpg",
+    "operation_number": "180812-0000-226076",
+    "kind_of_bike": "Ortler",
+    "manufacturer": "Detroit",
+    "model": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.738280.php",
+    "description": "Blau-silbernes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/738280.jpg",
+    "operation_number": "171116-2300-020801",
+    "kind_of_bike": "Pegasus",
+    "manufacturer": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.737713.php",
+    "description": "Silbernes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/737713.jpg",
+    "operation_number": "180815-0930-021123",
+    "kind_of_bike": "Dragon",
+    "manufacturer": "TCB070",
+    "model": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.737442.php",
+    "description": "Schwarz-rotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/737442.jpg",
+    "operation_number": "180831-0100-309317",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Mephisto",
+    "model": "schwarz / rot",
+    "color": "Direktion 6 Abschnitt 63"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.737311.php",
+    "description": "Lilafarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/737311.jpg",
+    "operation_number": "180901-0310-339813",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "GS 2000",
+    "model": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.736824.php",
+    "description": "Gr\u00fcnes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/736824.jpg",
+    "operation_number": "180814-1100-023271",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Pegasus",
+    "model": "Swing LX",
+    "color": "gr\u00fcn",
+    "department": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.736821.php",
+    "description": "Graues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/736821.jpg",
+    "operation_number": "180814-0945-026985",
+    "kind_of_bike": "Pegasus",
+    "manufacturer": "Solero Alu Light",
+    "model": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.736791.php",
+    "description": "Lilafarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/736791.jpg",
+    "operation_number": "180902-1700-020302",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Gran Canyon",
+    "model": "lila",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.736773.php",
+    "description": "Silberfarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/736773.jpg",
+    "operation_number": "180903-0340-310140",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Challance",
+    "model": "Performance",
+    "color": "silber",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.734929.php",
+    "description": "Lilafarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/734929.jpg",
+    "operation_number": "180528-1630-301846",
+    "kind_of_bike": "K\u00fcnsting",
+    "manufacturer": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.732062.php",
+    "description": "Dunkelgr\u00fcnes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/732062.jpg",
+    "operation_number": "180710-2300-288572",
+    "kind_of_bike": "Germaan Sport",
+    "manufacturer": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730659.php",
+    "description": "Rotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730659.jpg",
+    "operation_number": "180813-2355-331840",
+    "manufacturer": "Citybike",
+    "model": "Direktion 1 Abschnitt 13"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730457.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730457.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Triumph",
+    "manufacturer": "Kultrad",
+    "model": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730449.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730449.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Midas",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730421.php",
+    "description": "Schwarz-blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730421.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Vortex",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730348.php",
+    "description": "Rotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730348.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Trend",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730314.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730314.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Kalkhoff",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730284.php",
+    "description": "Lilafarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730284.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Everest",
+    "manufacturer": "City",
+    "model": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730268.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730268.jpg",
+    "operation_number": "180814-1452-023793",
+    "kind_of_bike": "Triumph",
+    "manufacturer": "City Tourer",
+    "model": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730227.php",
+    "description": "Lilafarbenes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730227.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Ragazzi",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.729742.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/7294742.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "2Fast4You",
+    "model": "schwarz",
+    "color": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.728383.php",
+    "description": "Silber-rotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/728383.jpg",
+    "operation_number": "180623-0240-023871",
+    "kind_of_bike": "Barracuda",
+    "manufacturer": "Trekking TR948",
+    "model": "Direktion 2 K 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727867.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727867.jpg",
+    "operation_number": "180805-1815-281780",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Kalkhoff",
+    "model": "schwarz",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727860.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727860.jpg",
+    "operation_number": "180807-1650-281718",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Leader",
+    "model": "Cruisy",
+    "color": "wei\u00df",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727600.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727600.jpg",
+    "operation_number": "180712-1641-288690",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "PS 331",
+    "color": "schwarz",
+    "department": "Direktion 5 K 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727378.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727378.jpg",
+    "operation_number": "180628-1131-028076",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727045.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727045.jpg",
+    "operation_number": "180523-0950-318369",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "schwarz",
+    "model": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.725627.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/725627.jpg",
+    "operation_number": "180728-0030-268031",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "blau",
+    "color": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.725623.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/725623.jpg",
+    "operation_number": "180725-1938-369304",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Tschibo",
+    "model": "Cycle Climber",
+    "color": "wei\u00df",
+    "department": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.725200.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/725200.jpg",
+    "operation_number": "180722-2230-308806",
+    "kind_of_bike": "Triumph",
+    "manufacturer": "PS738",
+    "model": "Direktion 1 Abschnitt 13"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.725088.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/725088.jpg",
+    "operation_number": "180701-0329-030726",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "schwarz",
+    "model": "Direktion 6 Abschnitt 65"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.724446.php",
+    "description": "Gr\u00fcn-silbernes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/724446.jpg",
+    "operation_number": "180724-1805-027379",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "gr\u00fcn/silber",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.724114.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/724114.jpg",
+    "operation_number": "180518-1600-024428",
+    "kind_of_bike": "Alu-Rex",
+    "manufacturer": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.724109.php",
+    "description": "Silbernes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/724109.jpg",
+    "operation_number": "180527-0030-026968",
+    "kind_of_bike": "Alu-Rex",
+    "manufacturer": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.724102.php",
+    "description": "Violettes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/724102.jpg",
+    "operation_number": "180531-0700-025342",
+    "kind_of_bike": "Prophete",
+    "manufacturer": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.724073.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/724073.jpg",
+    "operation_number": "180706-1300-021766",
+    "kind_of_bike": "Gratia",
+    "manufacturer": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.723257.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/723257.jpg",
+    "operation_number": "180710-1500-032639",
+    "kind_of_bike": "Kettler Triumph",
+    "manufacturer": "Kultrad",
+    "model": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.722554.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/722554.jpg",
+    "operation_number": "Schwarzes Damenfahrrad",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.721462.php",
+    "description": "Rot-schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/721462.jpg",
+    "operation_number": "180303-1614-238369",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Votone",
+    "model": "rot / schwarz",
+    "color": "Direktion 4 Abschnitt 44"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.721035.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/721035.jpg",
+    "operation_number": "180701-0730-303175",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Mirage",
+    "color": "Direktion 3 Abschnitt 35"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.719906.php",
+    "description": "Schwarz-graues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/719906.jpg",
+    "operation_number": "180624-1945-030156",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Mifa",
+    "model": "Cityline",
+    "color": "schwarz/grau",
+    "department": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.719537.php",
+    "description": "Hellblaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/719537.jpg",
+    "operation_number": "180616-2135-324999",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "hellblau metallic",
+    "color": "Direktion 4 Abschnitt 46"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.718897.php",
+    "description": "Rotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/718897.jpg",
+    "operation_number": "180705-0300-288397",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Ben Tucker",
+    "model": "City Rad",
+    "color": "rot",
+    "department": "Direktion 6 Abschnitt 63"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.716807.php",
+    "description": "Grau-schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/716807.jpg",
+    "operation_number": "180621-1617-267908",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Vaterland",
+    "model": "grau/schwarz",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.716791.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/716791.jpg",
+    "operation_number": "180512-2310-171815",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Diplomat",
+    "model": "blau",
+    "color": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.716781.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/716781.jpg",
+    "operation_number": "180512-2310-171815",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "blau",
+    "model": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.716333.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/716333.jpg",
+    "operation_number": "180604-0716-022783",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Rixe",
+    "model": "schwarz",
+    "color": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.716184.php",
+    "description": "Rotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/716184.jpg",
+    "operation_number": "180507-2050-280424",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Pegasus",
+    "model": "Solero",
+    "color": "rot",
+    "department": "Direktion 4 Abschnitt 44"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.714573.php",
+    "description": "Gr\u00fcnes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/714573.jpg",
+    "operation_number": "180524-2230-310181",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Ragazzi",
+    "model": "Liner",
+    "color": "gr\u00fcn",
+    "department": "Direktion 6 Abschnitt 65"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.714214.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/714214.jpg",
+    "operation_number": "180521-2040-255902",
+    "kind_of_bike": "Damenfahrrad",
+    "model": "T1228",
+    "color": "schwarz",
+    "department": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.712967.php",
+    "description": "Graues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/712967.jpg",
+    "operation_number": "180612-0150-267934",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Kettler",
+    "model": "grau",
+    "color": "Direktion 1 Abschnitt 14"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.712112.php",
+    "description": "Graues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/712112.jpg",
+    "operation_number": "180614-0430-031539",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Bergamont",
+    "model": "Vitesse 7.2",
+    "color": "grau",
+    "department": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.711641.php",
+    "description": "Schwarze Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/711641.jpg",
+    "operation_number": "180604-0716-022783",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Rixe",
+    "model": "schwarz",
+    "color": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.711155.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/711155.jpg",
+    "operation_number": "180521-0300-037901",
+    "kind_of_bike": "Hera",
+    "manufacturer": "Technics",
+    "model": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.710136.php",
+    "description": "Braunes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/710136.jpg",
+    "operation_number": "180328-1715-029900",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "braun",
+    "color": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.705124.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/705124.jpg",
+    "operation_number": "180504-2321-026118",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Pegasus",
+    "model": "Stadtrad",
+    "color": "schwarz",
+    "department": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.704583.php",
+    "description": "Lila Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/704583.jpg",
+    "operation_number": "180202-0500-316557",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Campionari",
+    "model": "lila",
+    "color": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.702931.php",
+    "description": "Rotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/702931.jpg",
+    "operation_number": "180511-1200-225214",
+    "kind_of_bike": "Active",
+    "manufacturer": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.700630.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/700630.jpg",
+    "operation_number": "180421-1540-249390",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "Estrella",
+    "color": "blau",
+    "department": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.698691.php",
+    "description": "Hellblaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/698691.jpg",
+    "operation_number": "180502-2100-225362",
+    "kind_of_bike": "Ariston",
+    "manufacturer": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.696580.php",
+    "description": "Gelbes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/696580.jpg",
+    "operation_number": "180410-1315-231329",
+    "kind_of_bike": "Froschrad",
+    "manufacturer": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.696291.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/696291.jpg",
+    "operation_number": "180424-2330-308806",
+    "kind_of_bike": "Pegasus",
+    "manufacturer": "Piazza",
+    "model": "Direktion 1 Abschnitt 13"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.696127.php",
+    "description": "Rotes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/696127.jpg",
+    "operation_number": "180416-1000-335318",
+    "kind_of_bike": "Advanced",
+    "manufacturer": "Direktion 3 Abschnitt 35"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.695448.php",
+    "description": "T\u00fcrkises Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/695448.jpg",
+    "operation_number": "180422-1927-325059",
+    "kind_of_bike": "Clipper",
+    "manufacturer": "Direktion 3 Abschnitt 31"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.694623.php",
+    "description": "Pinkes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/694623.jpg",
+    "operation_number": "180417-2020-034551",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Ortler",
+    "model": "pink",
+    "color": "Direktion 2 Abschnitt 25"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.689208.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/689208.jpg",
+    "operation_number": "180307-2210-034032",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Herkules",
+    "model": "Tourer 8",
+    "color": "schwarz",
+    "department": "Direktion 1 Abschnitt 13"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.688738.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/688738.jpg",
+    "operation_number": "180209-0030-317012",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Kreidler",
+    "model": "RT limited Raser",
+    "color": "schwarz",
+    "department": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.686205.php",
+    "description": "Blaues Damenfahrrad",
+    "operation_number": "180220-0325-301494",
+    "kind_of_bike": "Greif",
+    "manufacturer": "Direktion 1 Abschnitt 15"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.674224.php",
+    "description": "Blaues Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/674224.jpg",
+    "operation_number": "150729-0420-168678",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.661356.php",
+    "description": "Wei\u00dfes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/661356.jpg",
+    "operation_number": "171018-1300-022475",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Pegasus",
+    "model": "Solero SL",
+    "color": "wei\u00df",
+    "department": "Direktion 3 Abschnitt 35"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.634830.php",
+    "description": "Schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/634830.jpg",
+    "operation_number": "170804-0405-310272",
+    "kind_of_bike": "Damenfahrrad",
+    "manufacturer": "Hera Technics",
+    "model": "WS 110C",
+    "color": "Direktion 6 Abschnitt 64 AK"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.627295.php",
+    "description": "Perlmutt-schwarzes Damenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/627295.jpg",
+    "operation_number": "170903-2300-225925",
+    "kind_of_bike": "Alu City",
+    "manufacturer": "Comfort",
+    "model": "Direktion 1 Abschnitt 12"
+  }
+]

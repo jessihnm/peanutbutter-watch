@@ -1,0 +1,2399 @@
+[
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.761465.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/761465.jpg",
+    "operation_number": "180822-1244-025404",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Schwarz",
+    "model": "Direktion 1 Abschnitt 14"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.760890.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/760890.jpg",
+    "operation_number": "180724-1800-028652",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.760881.php",
+    "description": "Schwarzes Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/760881.jpg",
+    "operation_number": "180724-1800-021853",
+    "kind_of_bike": "Bottecchia",
+    "manufacturer": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.760369.php",
+    "description": "Schwarz-rosa Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/760369.jpg",
+    "operation_number": "181118-0800-033396",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Gefag",
+    "model": "Schwarz-rosa",
+    "color": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.760354.php",
+    "description": "Rotes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/760354.jpg",
+    "operation_number": "181110-0500-308821",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "American IRock",
+    "model": "Rot",
+    "color": "Direktion 2 Abschnitt 25"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.760184.php",
+    "description": "Rotes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/760184.jpg",
+    "operation_number": "181115-0200-038468",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Bianchi",
+    "model": "Rot",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.759671.php",
+    "description": "Metallicgraues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/759671.jpg",
+    "operation_number": "181116-0530-318740",
+    "kind_of_bike": "Herrenrad/ Rennrad",
+    "manufacturer": "Cube",
+    "model": "Streamer",
+    "color": "metallicgrau",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.759659.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/759659.jpg",
+    "operation_number": "181114-1130-262343",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "unbekannt",
+    "model": "schwarz",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758854.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758854.jpg",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Triumpf",
+    "model": "1306",
+    "color": "schwarz",
+    "department": "Direktion 5 Abschnitt 55"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758846.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758846.jpg",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Frosch",
+    "model": "schwarz",
+    "color": "Direktion 5 Abschnitt 55"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758827.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758827.jpg",
+    "operation_number": "181030-1502-019502",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Giant",
+    "model": "blau",
+    "color": "Direktion 2 Abschnitt 25"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758768.php",
+    "description": "Blau-wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758768.jpg",
+    "operation_number": "181030-1502-019502",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Tecnobike",
+    "model": "Rubino",
+    "color": "Blau-wei\u00df",
+    "department": "Direktion 2 Abschnitt 25"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758590.php",
+    "description": "Silberfarbenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758590.jpg",
+    "operation_number": "180220-0300-250866",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "unbekannt",
+    "model": "Mountainbike",
+    "color": "silberfarben",
+    "department": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758541.php",
+    "description": "Silbergraues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758541.jpg",
+    "operation_number": "181109-0725-020897",
+    "kind_of_bike": "Herrnfahrrad",
+    "manufacturer": "unbekannt",
+    "model": "Trekkingrad",
+    "color": "silbergrau",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758524.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758524.jpg",
+    "operation_number": "181109-0730-020897",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Schwinn",
+    "model": "Rennrad",
+    "color": "blau",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758520.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758520.jpg",
+    "operation_number": "181109-0730-020897",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Bergamont",
+    "model": "Trekkingrad",
+    "color": "schwarz",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758507.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758507.jpg",
+    "operation_number": "181109-0730-020897",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Focus",
+    "model": "Trekkingad",
+    "color": "wei\u00df",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758499.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758499.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Hanseatic",
+    "model": "Trekkingrad",
+    "color": "schwarz",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758491.php",
+    "description": "Anthrazitfarbenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758491.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Winora",
+    "model": "Trekkingrad",
+    "color": "amthrazit",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758485.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758485.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "unbekannt",
+    "model": "Rennrad",
+    "color": "schwarz",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758483.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758483.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Checkerpig",
+    "model": "Trekkingrad",
+    "color": "schwarz",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758479.php",
+    "description": "Gr\u00fcnes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758479.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Herrenrad",
+    "manufacturer": "M\u00fcllerin / Forelle",
+    "model": "Rennrad",
+    "color": "gr\u00fcn",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758465.php",
+    "description": "Violettes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758465.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Peugeot",
+    "model": "violett",
+    "color": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758458.php",
+    "description": "Gr\u00fcn-silbernes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758458.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Diamant",
+    "model": "Tourenrad",
+    "color": "gr\u00fcn-silber",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758457.php",
+    "description": "Silberfarbenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758457.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Herrenfahrrad",
+    "model": "Tourenrad",
+    "color": "silberfarben",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758449.php",
+    "description": "Silberfarbenes Mountainbike",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Terrago / Giant",
+    "model": "Trekkingrad",
+    "color": "silber",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758439.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758439.jpg",
+    "operation_number": "181109-0540-020897",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "unbekannt",
+    "model": "Trekkingrad",
+    "color": "schwarz",
+    "department": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.758000.php",
+    "description": "Graues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/758000.jpg",
+    "operation_number": "180907-1515-037209",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Tecnobike",
+    "model": "Dasistmeinrad",
+    "color": "Grau",
+    "department": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.757263.php",
+    "description": "Rotes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/757263.jpg",
+    "operation_number": "181014-0325-339615",
+    "kind_of_bike": "Herrenfahrrad / Rennrad",
+    "manufacturer": "Chrisson",
+    "model": "FG Flat 1.0",
+    "color": "rot",
+    "department": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.756596.php",
+    "description": "Blau-wei\u00dfes Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/756596.jpg",
+    "operation_number": "180721-1000-310282",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Giant",
+    "model": "Peloton",
+    "color": "Blau-wei\u00df",
+    "department": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.756571.php",
+    "description": "Silbernes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/756571.jpg",
+    "operation_number": "181029-1239-226092",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Rixe",
+    "model": "Silber",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754881.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/754881.jpg",
+    "operation_number": "180928-0700-019814",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Calvin",
+    "model": "blau",
+    "color": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754867.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/754867.jpg",
+    "operation_number": "180928-0810-031594",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Gazelle",
+    "model": "blau",
+    "color": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754850.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/754850.jpg",
+    "operation_number": "181030-1150-333474",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "PS331",
+    "color": "schwarz",
+    "department": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754546.php",
+    "description": "Chrom-silberfarbenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/754546.jpg",
+    "operation_number": "181011-1515-036724",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "unbekannt",
+    "model": "Chrom/silber",
+    "color": "Direktion 6 Abschnitt 66"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754534.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/754534.jpg",
+    "operation_number": "181011-1515-036724",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Tourrex",
+    "model": "blau",
+    "color": "Direktion 6 Abschnitt 66"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754105.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/754105.jpg",
+    "operation_number": "181029-1400-274057",
+    "kind_of_bike": "Herrenharrad",
+    "manufacturer": "Trekking",
+    "model": "blau",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754104.php",
+    "description": "Rotes Herrenfahrrad",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "X-Rixe",
+    "model": "Comsxs3\u2019OFs",
+    "color": "Rot",
+    "department": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754049.php",
+    "description": "Wei\u00df-schwarzes Herrenfahrrad",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Wei\u00df-schwarz",
+    "model": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754032.php",
+    "description": "Wei\u00dfes Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/754032.jpg",
+    "operation_number": "181101-0910-030315",
+    "kind_of_bike": "Rennrad",
+    "manufacturer": "Diamant",
+    "model": "wei\u00df",
+    "color": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.754026.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/754026.jpg",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Exclusiv Trekking",
+    "model": "ZeitOnline",
+    "color": "schwarz",
+    "department": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753968.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "Kulturrad",
+    "color": "Schwarz",
+    "department": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753963.php",
+    "description": "Grau-gr\u00fcnes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753963.jpg",
+    "operation_number": "181003-0931-026523",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Yazoo",
+    "model": "Yazoo S 3.6.",
+    "color": "grau * gr\u00fcn",
+    "department": "Direktion 1 Abschnitt 11"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753937.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Schwarz",
+    "model": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753923.php",
+    "description": "Silber-blaues Herrenfahrrad",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "Silber-Blau",
+    "color": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753905.php",
+    "description": "Blau-silbernes Herrenfahrrad",
+    "operation_number": "181001-1143-027370",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Blau-Silber",
+    "model": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753739.php",
+    "description": "Grau-metallicfarbenes Herrenrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753739.jpg",
+    "operation_number": "181028-1455-269290",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Merida",
+    "model": "Freeway 9300",
+    "color": "grau-metallic",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753730.php",
+    "description": "Metallicblaues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753730.jpg",
+    "operation_number": "170809-1845-267891",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Wheeler",
+    "model": "Ride 900ZX",
+    "color": "metallicblau",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753724.php",
+    "description": "Rot-silbernes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753724.jpg",
+    "operation_number": "170310-1030-263345",
+    "kind_of_bike": "Mountainbike",
+    "model": "Special Concept",
+    "color": "rot-silber",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753698.php",
+    "description": "Blaues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753698.jpg",
+    "operation_number": "180323-2100-263302",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Torrek",
+    "model": "m8.nx",
+    "color": "blau",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753614.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753614.jpg",
+    "operation_number": "181021-0200-030595",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Focus",
+    "model": "Arriba",
+    "color": "schwarz",
+    "department": "Direktion 6 Abschnitt 65"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753520.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753520.jpg",
+    "operation_number": "180717-1520-024695",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Kalkhoff",
+    "model": "Track 4.0",
+    "color": "schwarz",
+    "department": "Direktion 1 K 2 EG Velo"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753504.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753504.jpg",
+    "operation_number": "180717-1520-024695",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Cube",
+    "model": "Town",
+    "color": "schwarz",
+    "department": "Direktion 1 K 2 EG Velo"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753489.php",
+    "description": "Graues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753489.jpg",
+    "operation_number": "181012-0730-331965",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Cycle Union GmbH",
+    "model": "T500",
+    "color": "mattgrau",
+    "department": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753130.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753130.jpg",
+    "operation_number": "180717-1520-024695",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Tecnobike",
+    "model": "1026",
+    "color": "schwarz/ wei\u00df",
+    "department": "Direktion 1 K2 EG Velo"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753119.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753119.jpg",
+    "operation_number": "180802-1600-121667",
+    "kind_of_bike": "Herrenfahrrad/ Mountainbike",
+    "manufacturer": "Dynamics",
+    "model": "Gravity Serie XC",
+    "color": "schwarz",
+    "department": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753104.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753104.jpg",
+    "operation_number": "181015-1121-030757",
+    "kind_of_bike": "Herren-Trekkingrad",
+    "manufacturer": "Tecnobike",
+    "model": "Urban Cross",
+    "color": "schwarz",
+    "department": "Direktion 1 K2 EG Velo"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753079.php",
+    "description": "Blaues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753079.jpg",
+    "operation_number": "181013-1837-280476",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Germatec",
+    "model": "Mountain GM 04",
+    "color": "blau",
+    "department": "Direktion 2 Abschnitt 22"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.753008.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/753008.jpg",
+    "operation_number": "180920-1405-243725",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Gary Fisher",
+    "model": "Wahoo",
+    "color": "schwarz",
+    "department": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.752847.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/752847.jpg",
+    "operation_number": "181015-1121-030757",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Kalkhoff",
+    "model": "Blackwood",
+    "color": "wei\u00df",
+    "department": "Direktion 1 K 2 EG Velo"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.752796.php",
+    "description": "Blaues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/752796.jpg",
+    "operation_number": "181006-0105-026574",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Giant",
+    "model": "Rincon",
+    "color": "blau",
+    "department": "Direktion 1 Abschnitt 15"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.752573.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/752573.jpg",
+    "operation_number": "181002-0101-280494",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Bulls",
+    "model": "Cross Bike 1",
+    "color": "schwarz",
+    "department": "Direktion 1 Abschnitt 14"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.752473.php",
+    "description": "Schwarzes Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/752473.jpg",
+    "operation_number": "181015-1121-030757",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 1 K 2"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.752293.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.752270.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751900.php",
+    "description": "Hellgraues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751900.jpg",
+    "operation_number": "181024-0557-027638",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "unbekannt",
+    "model": "hellgrau",
+    "color": "Direktion 1 Abschnitt 13"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751697.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751690.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751690.jpg",
+    "operation_number": "181009-1930-052103",
+    "kind_of_bike": "Herrenfahrrad \u2013 Fixi Fitnessbike",
+    "manufacturer": "KS Cycling",
+    "model": "essence",
+    "color": "wei\u00df",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751687.php",
+    "description": "Neongelb-gr\u00fcnes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751687.jpg",
+    "operation_number": "180920-0300-289409",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "BTwin",
+    "model": "RockRider Alu frame",
+    "color": "neongelb-gr\u00fcn",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751654.php",
+    "description": "Schwarz-graues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751654.jpg",
+    "operation_number": "180509-1529-231120",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Cube",
+    "color": "schwarz-grau mit wei\u00dfer Schrift",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751629.php",
+    "description": "Rot-gelbes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751629.jpg",
+    "operation_number": "180629-0931-316594",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "rot-gelb",
+    "model": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751619.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751619.jpg",
+    "operation_number": "180620-1730-308821",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Giant",
+    "model": "Explorer",
+    "color": "blau",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751607.php",
+    "description": "Schwarzes Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751607.jpg",
+    "operation_number": "180617-0700-267891",
+    "kind_of_bike": "Rennrad",
+    "manufacturer": "Fixi",
+    "model": "schwarz",
+    "color": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751598.php",
+    "description": "Blaues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751598.jpg",
+    "operation_number": "1180708-0930-267958",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Raleigh",
+    "color": "blau",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751588.php",
+    "description": "Silberfarbenes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751588.jpg",
+    "operation_number": "180710-0010-276699",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "silber",
+    "model": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751575.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751575.jpg",
+    "operation_number": "180624-1700-288349",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "Kultrad",
+    "color": "schwarz",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.751123.php",
+    "description": "Grau-wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/751123.jpg",
+    "operation_number": "180802-1940-295514",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Marke unbekannt",
+    "model": "grau/wei\u00df",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.750617.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/750617.jpg",
+    "operation_number": "180812-0330-020322",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Pegasus",
+    "model": "Solero Classico",
+    "color": "schwarz",
+    "department": "Direktion 6 Abschnitt 65"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.750022.php",
+    "description": "Schwarz-graues Herrenfahrrad",
+    "operation_number": "181017-1600-317267",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Cube",
+    "model": "Analog",
+    "color": "Schwarz-grau",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.749790.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/749790.jpg",
+    "operation_number": "180323-2100-263302",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Serious",
+    "model": "Cedar",
+    "color": "schwarz",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.749707.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/749707.jpg",
+    "operation_number": "181011-0830-339735",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Kettler",
+    "model": "wei\u00df",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.749675.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/749675.jpg",
+    "operation_number": "181006-1130-276692",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Bulls",
+    "model": "Wildone",
+    "color": "schwarz",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.749405.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "operation_number": "181015-1736-316592",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Kuwahara",
+    "model": "Schwarz",
+    "color": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.749378.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/749378.jpg",
+    "operation_number": "180822-1244-025404",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Schwarz",
+    "model": "Direktion 1 Abschnitt 14"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.749369.php",
+    "description": "Wei\u00df-schwarzes Herrenfahrrad",
+    "operation_number": "181008-2120-310140",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Bulls",
+    "model": "Crossflyer",
+    "color": "Wei\u00df-schwarz",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.749358.php",
+    "description": "Schwarz-gelbes Herrenfahrrad",
+    "operation_number": "181008-2121-310140",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Roadsign",
+    "model": "Hills 1100",
+    "color": "Schwarz-gelb",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.748975.php",
+    "description": "Blaues Herrenfahrrad",
+    "operation_number": "180915-0800-030156",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "American Company",
+    "model": "Irok",
+    "color": "Blau",
+    "department": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747759.php",
+    "description": "Schwarz-silbernes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/747759.jpg",
+    "operation_number": "180916-0855-267911",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Vaterland",
+    "model": "Aero Nr. 1",
+    "color": "schwarz/silber",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747748.php",
+    "description": "Silberfarbenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/747748.jpg",
+    "operation_number": "181005-1855-280506",
+    "kind_of_bike": "Herrenfahrrad",
+    "model": "Veneto Alu",
+    "color": "silber",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747741.php",
+    "description": "Goldfarbenes Herrenfahrrad",
+    "operation_number": "180928-1045-023066",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Felt",
+    "model": "Starlite",
+    "color": "Goldfarben",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747735.php",
+    "description": "Grau-blaues Herrenfahrrad",
+    "operation_number": "180923-0700-302175",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Exte",
+    "model": "Speedster",
+    "color": "Grau-blau",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747729.php",
+    "description": "Blaues Herrenfahrrad",
+    "operation_number": "180925-1302-035999",
+    "manufacturer": "Gudereit",
+    "color": "Blau",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747653.php",
+    "description": "Graues Herrenfahrrad",
+    "operation_number": "180928-0900-280465",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Pegasus",
+    "model": "Grau",
+    "color": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747642.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "operation_number": "180829-1000-021209",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Univega",
+    "model": "Terreno 4.0",
+    "color": "Schwarz",
+    "department": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747625.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "operation_number": "180928-0902-280465",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Probike",
+    "model": "Wei\u00df",
+    "color": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747512.php",
+    "description": "Silbernes Herrenfahrrad",
+    "operation_number": "181001-1417-274353",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Dynamic",
+    "model": "Helium",
+    "color": "Silber",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747504.php",
+    "description": "Neongelb-schwarzes Herrenfahrrad",
+    "operation_number": "181007-0245-026221",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Exte",
+    "model": "Helium",
+    "color": "Neongelb-schwarz",
+    "department": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.747182.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/747182.jpg",
+    "operation_number": "181011-0830-339735",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Kettler",
+    "model": "Wei\u00df",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.746770.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "operation_number": "180820-0913-308802",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Korti",
+    "model": "Wei\u00df",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.746343.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/746343.jpg",
+    "operation_number": "180930-0203-026247",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Rex",
+    "model": "Wei\u00df",
+    "color": "Direktion 1 K 2 EG Velo"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.745689.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/745689.jpg",
+    "operation_number": "181003-1442-237347",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Vermont",
+    "model": "Kinara",
+    "color": "schwarz",
+    "department": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.745686.php",
+    "description": "Schwarz-wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/745686.jpg",
+    "operation_number": "180930-0440-031539",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Bulls",
+    "model": "Raptor Cross",
+    "color": "Schwarz-wei\u00df",
+    "department": "Direktion 1 K 2 EG Velo"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.744895.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/744895.jpg",
+    "operation_number": "180811-1122-339856",
+    "kind_of_bike": "Corona",
+    "manufacturer": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.744793.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/744793.jpg",
+    "operation_number": "180920-1540-031539",
+    "kind_of_bike": "Staiger",
+    "manufacturer": "Daytona",
+    "model": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.743231.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/743231.jpg",
+    "operation_number": "180716-0906-019333",
+    "kind_of_bike": "Polaris",
+    "manufacturer": "Panther",
+    "model": "Direktion 1 Abschnitt 13"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.743209.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/743209.jpg",
+    "operation_number": "180716-0906-019333",
+    "kind_of_bike": "Prophete",
+    "manufacturer": "Comfort",
+    "model": "Direktion 1 Abschnitt 13"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.743006.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/743006.jpg",
+    "operation_number": "180917-1900-302230",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Ortler",
+    "model": "Saragossa, SR Suntour",
+    "color": "schwarz",
+    "department": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.742686.php",
+    "description": "Gelb-lila-pinkfarbenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/742686.jpg",
+    "operation_number": "180612-0100-323959",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Challenge",
+    "model": "lila-gelb-pink",
+    "color": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741809.php",
+    "description": "Blaues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741809.jpg",
+    "operation_number": "180914-0434-030329",
+    "kind_of_bike": "GT",
+    "manufacturer": "Rebound",
+    "model": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741707.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741707.jpg",
+    "operation_number": "180829-1201-027441",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Triumph",
+    "model": "Kultrad",
+    "color": "schwarz",
+    "department": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741639.php",
+    "description": "Gr\u00fcnes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741639.jpg",
+    "operation_number": "180813-2000-037277",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "gr\u00fcn",
+    "color": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741283.php",
+    "description": "Dunkelgraues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741283.jpg",
+    "operation_number": "180829-1303-027441",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Pegasus",
+    "model": "dunkelgrau",
+    "color": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.741213.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/741213.jpg",
+    "operation_number": "180914-0434-030329",
+    "kind_of_bike": "Herrenfahrrad",
+    "model": "schwarz",
+    "color": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.740577.php",
+    "description": "Blaues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/740577.jpg",
+    "operation_number": "180914-1300-024674",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Cyclecraft",
+    "model": "one-o-three",
+    "color": "blau",
+    "department": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.740573.php",
+    "description": "Gr\u00fcnes (schwarz \u00fcberspritztes) Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/740573.jpg",
+    "operation_number": "180713-1902-280370",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "gr\u00fcn (schwarz \u00fcberspritzt)",
+    "model": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.740568.php",
+    "description": "Schwarz-blaues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/740568.jpg",
+    "operation_number": "180908-0930-120376",
+    "kind_of_bike": "Mountainbike",
+    "model": "Helium",
+    "color": "schwarz-blau",
+    "department": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.740468.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/740468.jpg",
+    "operation_number": "180719-06058-281765",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Nevada",
+    "model": "City Bike",
+    "color": "blau",
+    "department": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.740068.php",
+    "description": "Schwarz-gr\u00fcnes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/740068.jpg",
+    "operation_number": "180827-1300-022273",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "McKinley",
+    "model": "schwarz-gr\u00fcn",
+    "color": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.738726.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/738726.jpg",
+    "operation_number": "180909-0945-184265",
+    "kind_of_bike": "Exte",
+    "manufacturer": "Race",
+    "model": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.737849.php",
+    "description": "Schwarz-gr\u00fcnes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/737849.jpg",
+    "operation_number": "180707-2030-255857",
+    "kind_of_bike": "Winora",
+    "manufacturer": "Jamaika",
+    "model": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.737723.php",
+    "description": "Graues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/737723.jpg",
+    "operation_number": "180613-1354-231338",
+    "kind_of_bike": "Giant",
+    "manufacturer": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.737709.php",
+    "description": "Graues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/737709.jpg",
+    "operation_number": "180517-2340-030302",
+    "manufacturer": "Rimini",
+    "model": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.737701.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/737701.jpg",
+    "operation_number": "180503-0130-052051",
+    "kind_of_bike": "Fixie inc",
+    "manufacturer": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.737673.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/737673.jpg",
+    "operation_number": "180726-0030-122212",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.737655.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/737655.jpg",
+    "operation_number": "180904-2145-038831",
+    "manufacturer": "Rocco",
+    "model": "Direktion 2 Abschnitt 22"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.737615.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/737615.jpg",
+    "operation_number": "180904-2145-038831",
+    "kind_of_bike": "Giant",
+    "manufacturer": "Talon",
+    "model": "Direktion 2 Abschnitt 22"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.737228.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/737228.jpg",
+    "operation_number": "180629-1924-033063",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Fixie Cycle for heroes",
+    "model": "schwarz",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.735441.php",
+    "description": "Hellgraues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/735441.jpg",
+    "operation_number": "180824-1030-317115",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Paninfarina",
+    "model": "hellgrau",
+    "color": "Direktion 4 Abschnitt 46"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.734893.php",
+    "description": "Wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/734893.jpg",
+    "operation_number": "180829-1737-032858",
+    "kind_of_bike": "Mountainbike",
+    "model": "wei\u00df",
+    "color": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.734884.php",
+    "description": "Schwarz-gelbes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/734884.jpg",
+    "operation_number": "180811-1900-038087",
+    "kind_of_bike": "Moutainbike",
+    "model": "Helium",
+    "color": "schwarz/gelb",
+    "department": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.734685.php",
+    "description": "Graues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/734685.jpg",
+    "operation_number": "180714-1800-288170",
+    "kind_of_bike": "Conquest",
+    "manufacturer": "Performance",
+    "model": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.734054.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/734054.jpg",
+    "operation_number": "180826-1900-280506",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Rollercoaster",
+    "model": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.733628.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/733628.jpg",
+    "operation_number": "180824-1330-033630",
+    "kind_of_bike": "Avico",
+    "manufacturer": "Avico Dual Suspension",
+    "model": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.733230.php",
+    "description": "Gr\u00fcnes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/733230.jpg",
+    "operation_number": "180827-1100-237347",
+    "kind_of_bike": "Ebsen",
+    "manufacturer": "Habana",
+    "model": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.733131.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/733131.jpg",
+    "operation_number": "180821-1240-030825",
+    "kind_of_bike": "Cube",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.732040.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/732040.jpg",
+    "operation_number": "180815-1756-022835",
+    "kind_of_bike": "Bottecchai",
+    "manufacturer": "FX 530"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.731730.php",
+    "description": "Silbernes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/731730.jpg",
+    "operation_number": "180608-1412-022832",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.731671.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/731671.jpg",
+    "operation_number": "180718-1400-318653",
+    "kind_of_bike": "Bulls",
+    "manufacturer": "Pulsar",
+    "model": "Direktion 1 Abschnitt 14"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730462.php",
+    "description": "Wei\u00dfes Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730462.jpg",
+    "operation_number": "180812-1100-274446",
+    "kind_of_bike": "Cervelo",
+    "manufacturer": "C 3",
+    "model": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730436.php",
+    "description": "Gelbes Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730436.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Turmberg",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730414.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730414.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730403.php",
+    "description": "Lilafarbenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730403.jpg",
+    "operation_number": "180812-0130-024693",
+    "kind_of_bike": "Alpina",
+    "manufacturer": "Direktion 5 Abschnitt 55"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730369.php",
+    "description": "Graues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730369.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Pegasus",
+    "manufacturer": "Avanti S.",
+    "model": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730324.php",
+    "description": "Gr\u00fcnes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730324.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Arcoma",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730274.php",
+    "description": "Dunkelgr\u00fcnes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730274.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730217.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730217.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Pegasus",
+    "manufacturer": "Solero",
+    "model": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730208.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730208.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Yazoo",
+    "manufacturer": "S 8.0",
+    "model": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.730155.php",
+    "description": "Silbernes Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/730155.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Prophete",
+    "manufacturer": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.729863.php",
+    "description": "Schwarz-pinkes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/729863.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "schwarz/pink/",
+    "color": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.729858.php",
+    "description": "Gelb-graues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/729858.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Mac Kenzie",
+    "model": "gelb/grau/",
+    "color": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.729772.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/729772.jpg",
+    "operation_number": "180814-1915-308841",
+    "kind_of_bike": "Tecnobike",
+    "manufacturer": "Sahara",
+    "model": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.729759.php",
+    "description": "Schwarz-gelbes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/729759.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Mifa",
+    "model": "Full Suspension",
+    "color": "schwarz/gelb",
+    "department": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.729751.php",
+    "description": "Gr\u00fcnes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/729751.jpg",
+    "operation_number": "180801-1101-026428",
+    "kind_of_bike": "Herrenfahrad",
+    "manufacturer": "gr\u00fcn",
+    "model": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.729727.php",
+    "description": "Silber-schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/729727.jpg",
+    "operation_number": "180616-1450-275634",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 1 Abschnitt 13"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.729442.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/729442.jpg",
+    "operation_number": "180603-0100-021945",
+    "kind_of_bike": "Mountainbike",
+    "model": "Tornado",
+    "color": "schwarz",
+    "department": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.729418.php",
+    "description": "Graues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/729418.jpg",
+    "operation_number": "180808-0650-261915",
+    "kind_of_bike": "Herrenfahrrad",
+    "model": "City-/Trekkingrad / Piazza",
+    "color": "grau",
+    "department": "Direktion 1 K 22"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.729131.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/729131.jpg",
+    "operation_number": "180716-1800-025026",
+    "kind_of_bike": "Focus",
+    "manufacturer": "Arriba",
+    "model": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.728838.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/728838.jpg",
+    "operation_number": "180728-2145-281779",
+    "kind_of_bike": "KS-Cycling",
+    "manufacturer": "Convex",
+    "model": "Direktion 1 Abschnitt 15"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.728759.php",
+    "description": "Silberfarbenes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/728759.jpg",
+    "operation_number": "180721-0115-217089",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Fischer",
+    "model": "silber",
+    "color": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.728628.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/728628.jpg",
+    "operation_number": "180808-0945-255895",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Diamant",
+    "model": "schwarz",
+    "color": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.728376.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/728376.jpg",
+    "operation_number": "180623-0240-023871",
+    "kind_of_bike": "Giant",
+    "manufacturer": "Boulder 500",
+    "model": "Direktion 2 K 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.728360.php",
+    "description": "Schwarz-wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/728360.jpg",
+    "operation_number": "180805-0630-339685",
+    "kind_of_bike": "Dynamics",
+    "manufacturer": "Roadking lite",
+    "model": "Direktion 3 Abschnitt 36"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.728336.php",
+    "description": "Graues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/728336.jpg",
+    "operation_number": "180329-1900-243710",
+    "kind_of_bike": "Stadler",
+    "manufacturer": "Single Speed",
+    "model": "Direktion 6 Abschnitt 64"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.728329.php",
+    "description": "Schwarz-orangefarbenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/728329.jpg",
+    "operation_number": "171225-1250-323915",
+    "kind_of_bike": "Scott",
+    "manufacturer": "Aspect",
+    "model": "Direktion 3 Abschnitt 34"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727865.php",
+    "description": "Silbernes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727865.jpg",
+    "operation_number": "180804-2000-310244",
+    "kind_of_bike": "Freeway California",
+    "manufacturer": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727851.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727851.jpg",
+    "operation_number": "180807-2310-274556",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "2 Danger Lazer",
+    "model": "schwarz",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727619.php",
+    "description": "Schwarz-graues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727619.jpg",
+    "operation_number": "180712-1640-037392",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Scott",
+    "model": "grau-schwarz",
+    "color": "Direktion 5 K 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727606.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727606.jpg",
+    "operation_number": "180712-1641-037392",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Avigo",
+    "model": "schwarz",
+    "color": "Direktion 5 K 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727594.php",
+    "description": "Silber-wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727594.jpg",
+    "operation_number": "180712-1641-036076",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Cube",
+    "model": "Attention Comp. Series",
+    "color": "silber-wei\u00df",
+    "department": "Direktion 5 K 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727587.php",
+    "description": "Graues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727587.jpg",
+    "operation_number": "180712-1640-036076",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Merida",
+    "model": "Speeder",
+    "color": "grau",
+    "department": "Direktion 5 K 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727404.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727404.jpg",
+    "operation_number": "180629-1900-033262",
+    "kind_of_bike": "Scott",
+    "manufacturer": "Direktion 1 Abschnitt 14"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727375.php",
+    "description": "Graues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727375.jpg",
+    "operation_number": "180805-0400-281695",
+    "kind_of_bike": "B\u2019Twin",
+    "manufacturer": "Hoprider 300",
+    "model": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.727370.php",
+    "description": "Wei\u00dfes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/727370.jpg",
+    "operation_number": "180804-2155-034032",
+    "kind_of_bike": "KS Cycling",
+    "manufacturer": "Insomnia",
+    "model": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.726449.php",
+    "description": "Schwarz-blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/726449.jpg",
+    "operation_number": "180619-2344-021187",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "schwarz-blau",
+    "model": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.726290.php",
+    "description": "Rotes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/726290.jpg",
+    "operation_number": "180428-0500-274401",
+    "manufacturer": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.725198.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/725198.jpg",
+    "operation_number": "180713-2120-275786",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Winora",
+    "model": "Jamaica",
+    "color": "schwarz",
+    "department": "Direktion 2 Abschnitt 24"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.725101.php",
+    "description": "Bronzenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/725101.jpg",
+    "operation_number": "180629-1345-030726",
+    "kind_of_bike": "Hercules",
+    "manufacturer": "Direktion 6 Abschnitt 65"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.724850.php",
+    "description": "Schwarz-gr\u00fcnes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/724850.jpg",
+    "operation_number": "180725-2330-289492",
+    "kind_of_bike": "Serious",
+    "manufacturer": "Rockwell",
+    "model": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.724146.php",
+    "description": "Anthrazites Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/724146.jpg",
+    "operation_number": "180424-1115-033764",
+    "kind_of_bike": "Curtis /",
+    "model": "Direktion 1 Abschnitt 14"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.724131.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/724131.jpg",
+    "operation_number": "180426-1800-024640",
+    "kind_of_bike": "Staiger",
+    "manufacturer": "Montana",
+    "model": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.724121.php",
+    "description": "Silbernes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/724121.jpg",
+    "operation_number": "180517-2250-294505",
+    "kind_of_bike": "Vortex",
+    "manufacturer": "Travel 100",
+    "model": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.724075.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/724075.jpg",
+    "operation_number": "180703-1030-035586",
+    "kind_of_bike": "Exte",
+    "manufacturer": "Sr Sun Tour",
+    "model": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.723263.php",
+    "description": "Dunkelgr\u00fcnes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/723263.jpg",
+    "operation_number": "180710-1400-035614",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Esperia",
+    "model": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.722894.php",
+    "description": "Schwarzes Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/722894.jpg",
+    "operation_number": "180705-0005-038468",
+    "kind_of_bike": "Rennrad",
+    "model": "Roubaix 2.0",
+    "color": "schwarz",
+    "department": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.722574.php",
+    "description": "Blaues Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/722574.jpg",
+    "operation_number": "180606-1930-310288",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.722565.php",
+    "description": "Pink-schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/722565.jpg",
+    "operation_number": "180527-1830-262150",
+    "kind_of_bike": "Pegasus",
+    "manufacturer": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.722284.php",
+    "description": "Gr\u00fcnes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/722284.jpg",
+    "operation_number": "180526-1800-275802",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "gr\u00fcn",
+    "color": "Direktion 3 Abschnitt 32"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.722176.php",
+    "description": "Rotes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/722176.jpg",
+    "operation_number": "180630-0100-122165",
+    "kind_of_bike": "Radiant",
+    "manufacturer": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.721258.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/721258.jpg",
+    "operation_number": "180702-1845-276701",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Univega",
+    "model": "Groove",
+    "color": "blau",
+    "department": "Direktion 2 Abschnitt 22"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.721185.php",
+    "description": "Blaues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/721185.jpg",
+    "operation_number": "180708-0015-038693",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Giant",
+    "model": "blau",
+    "color": "Direktion 1 Abschnitt 13"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.721012.php",
+    "description": "Graues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/721012.jpg",
+    "operation_number": "180701-0730-303175",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Yazoo",
+    "model": "Freebike F.2",
+    "color": "grau",
+    "department": "Direktion 3 Abschnitt 35"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.720623.php",
+    "description": "Silbergraues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/720623.jpg",
+    "operation_number": "180628-0101-255716",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "KIettler",
+    "model": "Traveler",
+    "color": "silbergrau",
+    "department": "Direktion 2 Abschnitt 25"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.720497.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/720497.jpg",
+    "operation_number": "180626-0200-290081",
+    "kind_of_bike": "Herrenfahrrad,",
+    "manufacturer": "Carver",
+    "model": "schwarz",
+    "color": "Direktion 5 Abschnitt 55"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.720479.php",
+    "description": "Neongr\u00fcnes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/720479.jpg",
+    "operation_number": "180530-1230-122050",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Kalkhoff",
+    "model": "Rockbreaker",
+    "color": "neongr\u00fcn",
+    "department": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.719403.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/719403.jpg",
+    "operation_number": "180701-0930-030112",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Scout",
+    "model": "Scout Racer",
+    "color": "schwarz",
+    "department": "Direktion 2 Abschnitt 25"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.719317.php",
+    "description": "Schwarz-blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/719317.jpg",
+    "operation_number": "180619-1815-231328",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "schwarz/blau",
+    "model": "Direktion 6 Abschnitt 63"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.718918.php",
+    "description": "Senfgelbes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/718918.jpg",
+    "operation_number": "180523-2335-120642",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "senfgelb",
+    "model": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.718433.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/718433.jpg",
+    "operation_number": "180627-0130-029309",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Bulls",
+    "model": "Tatoo",
+    "color": "schwarz",
+    "department": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.718370.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/718370.jpg",
+    "operation_number": "180428-0330-325284",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "schwarz",
+    "model": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.717950.php",
+    "description": "Wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/717950.jpg",
+    "operation_number": "180702-2030-038424",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Specialized",
+    "model": "Hardrock Sport",
+    "color": "wei\u00df",
+    "department": "Direktion 1 Abschnitt 12"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.716816.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.716321.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.716206.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.715995.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.715091.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.715088.php",
+    "description": "Rotes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/715088.jpg",
+    "operation_number": "180613-2201-039194",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Focus",
+    "model": "rot",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.714576.php",
+    "description": "Schwarz-t\u00fcrkisfarbenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/714576.jpg",
+    "operation_number": "180426-0700-019472",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Ragazzi",
+    "model": "Torpedo",
+    "color": "schwarz/t\u00fcrkis",
+    "department": "Direktion 6 Abschnitt 65"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.714550.php",
+    "description": "Hellblaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/714550.jpg",
+    "operation_number": "180607-0523-028577",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "hellblau",
+    "model": "Direktion 6 Abschnitt 65"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.714229.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.714199.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/714199.jpg",
+    "operation_number": "180507-1200-308927",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Merida",
+    "model": "Kalahari Eight",
+    "color": "schwarz",
+    "department": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.713955.php",
+    "description": "Lilafarbenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/713955.jpg",
+    "operation_number": "180615-0300-280410",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Hercules",
+    "model": "lila",
+    "color": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.713770.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/713770.jpg",
+    "operation_number": "180612-1102-027097",
+    "kind_of_bike": "Herrenfahrrad",
+    "model": "schwarz",
+    "color": "Direktion 2 Abschnitt 25"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.712932.php",
+    "description": "Schwarz-blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/712932.jpg",
+    "operation_number": "180112-0030-288348",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Vermont",
+    "model": "Eaton",
+    "color": "schwarz mit blauen Streifen",
+    "department": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.712927.php",
+    "description": "Goldfarbenes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/712927.jpg",
+    "operation_number": "180611-1900-302177",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Condor",
+    "model": "goldfarben",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.712106.php",
+    "description": "Schwarz-gelbes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/712106.jpg",
+    "operation_number": "180429-2200-025106",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Bull",
+    "model": "schwarz / gelb",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.711666.php",
+    "description": "Rot-wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/711666.jpg",
+    "operation_number": "171003-0131-302177",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "\u201cGT Avalanche All Terra\u201d",
+    "model": "rot/wei\u00df",
+    "color": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.710139.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/710139.jpg",
+    "operation_number": "180328-1715-029900",
+    "kind_of_bike": "Mountainbike",
+    "model": "Trio",
+    "color": "schwarz",
+    "department": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.707873.php",
+    "description": "Schwarz-orangefarbenes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/707873.jpg",
+    "operation_number": "180529-1820-324983",
+    "kind_of_bike": "Mountainbike",
+    "model": "Acer",
+    "color": "schwarz mit orangfarbenem Schriftzug",
+    "department": "Direktion 5 Abschnitt 52"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.705736.php",
+    "description": "Grau-rotes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/705736.jpg",
+    "operation_number": "180528-0700-027768",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Dry Speed",
+    "color": "grau-rot",
+    "department": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.705714.php",
+    "description": "Graues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/705714.jpg",
+    "operation_number": "180528-0700-027768",
+    "kind_of_bike": "Mountainbike, ohne Sattel",
+    "manufacturer": "McKenzie",
+    "model": "Sportline",
+    "color": "grau",
+    "department": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.704655.php",
+    "description": "Silbernes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/704655.jpg",
+    "operation_number": "180202-0500-316557",
+    "kind_of_bike": "Herrenfahrrad",
+    "manufacturer": "Erich M\u00f6ller",
+    "model": "silber",
+    "color": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.704320.php",
+    "description": "Blau-schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/704320.jpg",
+    "operation_number": "180407-2316-318266",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Conway",
+    "model": "blau-schwarz",
+    "color": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.704298.php",
+    "description": "Gelbes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/704298.jpg",
+    "operation_number": "180407-2315-318266",
+    "kind_of_bike": "Moutainbike",
+    "manufacturer": "Exte",
+    "model": "gelb",
+    "color": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.702960.php",
+    "description": "Blaues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/702960.jpg",
+    "operation_number": "180506-1430-028109",
+    "kind_of_bike": "Yazoo",
+    "model": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.702951.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/702951.jpg",
+    "operation_number": "180507-1545-038135",
+    "kind_of_bike": "Conway",
+    "manufacturer": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.702946.php",
+    "description": "Wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/702946.jpg",
+    "operation_number": "180507-1650-038135",
+    "kind_of_bike": "Hai-Bike",
+    "manufacturer": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.699904.php",
+    "description": "Schwarzes Trekkingrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/699904.jpg",
+    "operation_number": "180419-1125-034201",
+    "kind_of_bike": "Santour",
+    "manufacturer": "Promax",
+    "model": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.699862.php",
+    "description": "Silber-gelbes Trekkingrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/699862.jpg",
+    "operation_number": "180419-1125-034201",
+    "kind_of_bike": "Bulls",
+    "manufacturer": "Enduro",
+    "model": "Direktion 4 Abschnitt 45"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.699737.php",
+    "description": "Wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/699737.jpg",
+    "operation_number": "180430-2130-323852(119)",
+    "kind_of_bike": "Stratos",
+    "manufacturer": "Direktion 1 Abschnitt 16"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.698679.php",
+    "description": "Blaues Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/698679.jpg",
+    "operation_number": "180504-0035-121667",
+    "kind_of_bike": "Invasion",
+    "manufacturer": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.697110.php",
+    "description": "Wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/697110.jpg",
+    "operation_number": "180427-1000-032759",
+    "manufacturer": "Rockrider 300",
+    "model": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.696847.php",
+    "description": "Blaues Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/696847.jpg",
+    "operation_number": "180424-1252-035999",
+    "kind_of_bike": "Giant",
+    "manufacturer": "Rock SE",
+    "model": "Direktion 4 Abschnitt 41"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.696570.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/696570.jpg",
+    "operation_number": "180407-0800-022808",
+    "kind_of_bike": "Pegasus",
+    "manufacturer": "Direktion 5 Abschnitt 56"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.696239.php",
+    "description": "Silber-schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/696239.jpg",
+    "operation_number": "170917-1015-323975",
+    "kind_of_bike": "Raleigh",
+    "manufacturer": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.696188.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/696188.jpg",
+    "operation_number": "151005-0200-028976",
+    "kind_of_bike": "Fahrradmanufaktur",
+    "manufacturer": "Velophil",
+    "model": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.695900.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.695883.php",
+    "description": "Wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/695883.jpg",
+    "operation_number": "180408-1132-120342",
+    "kind_of_bike": "Rex",
+    "manufacturer": "Direktion 5 Abschnitt 55"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.695500.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.693938.php",
+    "description": "Silberfarbenes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/693938.jpg",
+    "operation_number": "180316-0030-285865",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Bulls",
+    "model": "silber",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.693934.php",
+    "description": "Schwarz-silbernes Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/693934.jpg",
+    "operation_number": "180316-0030-285865",
+    "kind_of_bike": "Rennrad",
+    "manufacturer": "Trek",
+    "model": "schwarz/silber",
+    "color": "Heck,"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.693929.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.693925.php",
+    "description": "Silberfarbenes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/693925.jpg",
+    "operation_number": "180316-0030-285865",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "SL Advanced",
+    "model": "silber",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.693924.php",
+    "description": "Schwarz-wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/693924.jpg",
+    "operation_number": "180316-0030-285865",
+    "kind_of_bike": "Cube",
+    "manufacturer": "Analog",
+    "model": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.693922.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.693814.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/693814.jpg",
+    "operation_number": "180316-0030-285865",
+    "kind_of_bike": "Mountainbike",
+    "model": "schwarz",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.693797.php",
+    "description": "Blau-graues Rennrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/693797.jpg",
+    "operation_number": "180316-0030-285865",
+    "kind_of_bike": "Rennrad",
+    "manufacturer": "Loga Miyata",
+    "model": "blau/grau",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.693777.php",
+    "description": "Schwarz-wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/693777.jpg",
+    "operation_number": "180316-0030-285865",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Cube",
+    "model": "schwarz/wei\u00df",
+    "color": "Direktion 2 Abschnitt 21"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.693124.php",
+    "description": "Silbernes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/693124.jpg",
+    "operation_number": "180304-1816-331965",
+    "kind_of_bike": "Trek",
+    "manufacturer": "4300",
+    "model": "Direktion 3 Abschnitt 33"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.692160.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/692160.jpg",
+    "operation_number": "170719-1400-274600",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Conway",
+    "model": "M-Sport 300",
+    "color": "schwarz",
+    "department": "Direktion 1 K 22"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.690590.php",
+    "description": "Oranges Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/690590.jpg",
+    "operation_number": "171019-1200-023473",
+    "kind_of_bike": "Bulls",
+    "manufacturer": "Sharptail XU",
+    "model": "Direktion 6 Abschnitt 66"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.688642.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.688590.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.688574.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.688569.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.688164.php"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.687270.php",
+    "description": "Schwarzes Herrenfahrrad",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/687270.jpg",
+    "operation_number": "180318-1046-111243",
+    "kind_of_bike": "unbekannt",
+    "manufacturer": "Direktion 3 Abschnitt 31"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.682770.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/682770.jpg",
+    "operation_number": "171020-1300-023624",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Checker Pig",
+    "model": "Maru Crosslight",
+    "color": "schwarz",
+    "department": "Direktion 5 Abschnitt 51"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.682683.php",
+    "description": "Wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/682683.jpg",
+    "operation_number": "180112-0946-301494",
+    "kind_of_bike": "McKenzie",
+    "manufacturer": "Direktion 1 Abschnitt 15"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.650302.php",
+    "description": "Schwarzes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/650302.jpg",
+    "operation_number": "171116-2341-033063",
+    "kind_of_bike": "Mountainbike",
+    "manufacturer": "Bocas",
+    "model": "Esprit",
+    "color": "schwarz",
+    "department": "Direktion 2 Abschnitt 22 AK"
+  },
+  {
+    "url": "https://www.berlin.de/polizei/service/vermissen-sie-ihr-fahrrad/artikel.632710.php",
+    "description": "Schwarz-wei\u00dfes Mountainbike",
+    "image": "https://www.berlin.de/polizei/_assets/service/anlagen-fahrraddatenbank/632710.jpg",
+    "operation_number": "170720-0359-171471",
+    "kind_of_bike": "Focus",
+    "manufacturer": "Super Bud",
+    "model": "Direktion 2 Abschnitt 24"
+  }
+]
