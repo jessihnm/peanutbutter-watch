@@ -33,16 +33,16 @@ install_requires = ["requests", "click", "bs4", "lxml", "cssselect", "coloredlog
 
 
 setup(
-    name="berlin-bike-watch",
+    name="peanutbutter-watch",
     version=read_version(),
     description="\n".join(
         ["Berlin Bike Watch is a simple scraper for the Berlin Police Website"]
     ),
     long_description=local_file("README.rst"),
     entry_points={
-        "console_scripts": ["berlin-bike-watch = peanutbutter_watch.cli:main"]
+        "console_scripts": ["peanutbutter-watch = peanutbutter_watch.cli:main"]
     },
-    url="https://github.com/gabrielfalcao/berlin-bike-watch",
+    url="https://github.com/gabrielfalcao/peanutbutter-watch",
     packages=find_packages(exclude=["*tests*"]),
     include_package_data=True,
     package_data={"peanutbutter_watch": "README.rst *.rst docs/* docs/source/*".split()},
