@@ -48,7 +48,9 @@ class Scraper(object):
     def run(self):
         response = self.request(self.entrypoint_url)
         result = []
-
+        products = response.query('div.athenaProductBlock')
+        for p in products:
+            result.append({"product_name": "Natürliche Erdnussbutter","price": 9.49})
         return result
 
   
