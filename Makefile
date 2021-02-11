@@ -1,7 +1,7 @@
 .PHONY: all tests dependencies unit functional tdd-functional tdd-unit run clean black
 
-PACKAGE_PATH		:= ./berlin_bike_watch
-MAIN_CLI_NAME		:= berlin-bike-watch
+PACKAGE_PATH		:= ./peanutbutter_watch
+MAIN_CLI_NAME		:= peanutbutter-watch
 GIT_ROOT		:= $(shell dirname $(realpath $(firstword $(MAKEFILE_LIST))))
 VENV_ROOT		:= $(GIT_ROOT)/.venv
 MAIN_CLI_PATH		:= $(VENV_ROOT)/$(MAIN_CLI_NAME)

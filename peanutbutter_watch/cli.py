@@ -2,8 +2,8 @@ import io
 import json
 import click
 from datetime import datetime
-from berlin_bike_watch import Scraper
-from berlin_bike_watch import logger
+from peanutbutter_watch import Scraper
+from peanutbutter_watch import logger
 
 
 @click.command()

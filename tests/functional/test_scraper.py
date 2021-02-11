@@ -1,7 +1,7 @@
 import vcr
 from pathlib import Path
 from sure import scenario
-from berlin_bike_watch import Scraper
+from peanutbutter_watch import Scraper
 
 import vcr
 
